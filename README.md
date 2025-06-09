@@ -19,10 +19,6 @@ Truth Table Generator is an Android application built with Jetpack Compose that 
 *   **Clear UI:** Built with Material 3 components in Jetpack Compose for a modern and responsive user experience.
 *   **Dynamic Table Sizing:** The truth table columns adjust to fit the screen width.
 
-## Screenshots
-![Screenshot_20250606_145030](https://github.com/user-attachments/assets/0957b41d-3a0a-42a4-b4f3-7bf2ef5a1378)
-![Screenshot_20250606_145149](https://github.com/user-attachments/assets/e54dd6b7-aaed-4b05-8e2a-4b130a06f0e9)
-
 ## How to Use
 
 1.  **Enter Expression:** Type your boolean logic expression into the input field.
